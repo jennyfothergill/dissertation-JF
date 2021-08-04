@@ -1,0 +1,55 @@
+# Intro
+ - Why is what I'm doing important?
+    - climate crisis 
+    - TRUE
+    - SWC make computational science more equitable/accessible
+
+# Computational methods
+ - containers
+    - takes away cognitive load for user of having to build their own software stack
+    - guarantees that user will have working code
+    - helps to manage version conflicts
+    - makes software more portable onto clusters, etc
+ - CI pipelines/unit tests
+    - proactively test whether code is working as expected
+    - streamlines development
+ - version control
+    - allows collaboration
+    - documents changes and updates
+    - allows freedom to try new things without worrying about breaking anything
+ - good documentation
+    - a codebase without users does not serve its purpose
+    - good documentation practices help users to understand how to use the code
+ - notebook style examples
+    - seeing code in action helps users to learn how to use it
+    - code examples can be interspersed with plain text and images explaining the rationale behind why the code should work a certain way.
+ - use existing libraries
+    - dont reinvent the wheel
+    - by using familiar libraries other developers may understand this code more easily
+ - linting and style
+    - by standardizing the format in which our code is written it makes it easier for users and developers to parse.
+    - autolinters like pre-commit use tools like black, isort, pydocstyle, to make sure our code meets these standards
+ - collaboration (mosdef)
+    - gives experience working as a team
+    - more people to give feedback
+
+# Binary blend morphology sweep
+ - updated planckton to...
+    - use mixtures
+    - load from smiles
+    - use outside forcefields
+    - use ele
+    - use unyt for units
+    - use new mbuild create hoomd sim
+    - restartable sims
+ - this made it easier to run a large sweep of binary donor/acceptor mixtures
+
+# Charge transport
+ - updated morphct to...
+    - use pyscf
+    - allow gsd file as input
+    - allow SMARTs logic to be used to detect chromophores
+
+# Coarse graining?
+# Reproducibility study?
+# MoSDeF?
