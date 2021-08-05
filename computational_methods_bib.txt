@@ -24,3 +24,9 @@ Cito J., Ferme V., Gall H.C. (2016) Using Docker Containers to Improve Reproduci
 
 Björn Grüning, John Chilton, Johannes Köster, Ryan Dale, Nicola Soranzo, Marius van den Beek, Jeremy Goecks, Rolf Backofen, Anton Nekrutenko, James Taylor, Practical Computational Reproducibility in the Life Sciences, Cell Systems, Volume 6, Issue 6, 2018, Pages 631-635, ISSN 2405-4712, https://doi.org/10.1016/j.cels.2018.03.014.
     Details how containers (and even VMs) can be used to aid reproducibility of computational works
+
+Towards Molecular Simulations that are Transparent, Reproducible, Usable By Others, and Extensible (TRUE) Matthew W. Thompson, Justin B. Gilmer, Ray A. Matsumoto, Co D. Quach, Parashara Shamaprasad, Alexander H. Yang, Christopher R. Iacovella, Clare McCabe, Peter T. Cummings. https://arxiv.org/abs/2003.02031
+    many good refs (TODO) outlines mosdef, reproducibility crisis and TRUE
+
+Eric Jankowski, Neale Ellyson, Jenny W. Fothergill, Michael M. Henry, Mitchell H. Leibowitz, Evan D. Miller, Mone’t Alberts, Samantha Chesser, Jaime D. Guevara, Chris D. Jones, Mia Klopfenstein, Kendra K. Noneman, Rachel Singleton, Ramon A. Uriarte-Mendoza, Stephen Thomas, Carla E. Estridge, Matthew L. Jones, Perspective on coarse-graining, cognitive load, and materials simulation, Computational Materials Science, Volume 171, 2020, 109129, ISSN 0927-0256, https://doi.org/10.1016/j.commatsci.2019.109129.
+    our perspective paper. many good refs, overview of onboarding and best practices particularly good
