@@ -1,0 +1,21 @@
+John D. Blischak, Emily R. Davenport, and Greg Wilson: "A Quick Introduction to Version Control with Git and GitHub" PLoS Computational Biology, 2016.
+    details how and why to use version control software as a scientist
+
+https://semver.org/spec/v2.0.0.html
+    semantic versioning guide -- how to decide on the version number for a codebase
+
+Matthew Gentzkow and Jesse Shapiro: "Code and Data for the Social Sciences: A Practitioner's Guide.", 2014.
+    gives accounts of what is wrong with coding in the sciences and gives guidelines aimed at fixing these issues. Specifically, version control, abstraction, using tools like github issues/project boards to manage collaboration and development, documentation, etc.
+
+Damien Irving: "A minimum standard for publishing computational results in the weather and climate sciences", 2015.
+    many good references (TODO) discusses reproducibility crisis and how published work using software can be more reproducible
+
+William Stafford Noble: "A Quick Guide to Organizing Computational Biology Projects." PLoS Computational Biology, 2009.
+    could use this as an example of how managing a dataspace is tricky and why we use signac
+
+Yasset Perez-Riverol, Laurent Gatto, Rui Wang, Timo Sachsenberg, Julian Uszkoreit, Felipe da Veiga Leprevost, Christian Fufezan, Tobias Ternent, Stephen J. Eglen, Daniel S. Katz, Tom J. Pollard, Alexander Konovalov, Robert M. Flight, Kai Blin and Juan Antonio Vizcaíno: "Ten Simple Rules for Taking Advantage of Git and GitHub" PLoS Comput Biol 12(7): e1004947, 2016.
+    straightforward guide of how to use github features to streamline code development
+
+Greg Wilson, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, and Paul Wilson: "Best Practices for Scientific Computing" PLoS Biology, 2014.
+    Many great references (TODO) good overview of best practices in developing software
+
