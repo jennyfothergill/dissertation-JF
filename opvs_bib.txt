@@ -1,0 +1,11 @@
+Tamai 2015, https://doi.org/10.1021/acs.jpclett.5b01147
+    Review of exciton diffusion in opv polymers.
+
+https://pubs.acs.org/doi/pdf/10.1021/ct500014h 
+    Exciton diffusion calculated using marcus hopping (usually used for free charges).
+    Marcus theory compared to Franck-Condon (spectral overlap)
+    The interactions between excitons and phonons is the reorganization energy.
+    internal reorganization energy os due to the geometry changes
+    external is due to lattice distortion
+    external is ~1 oom smaller and is ignored in this paper (and by us?)
+    good description of how to calculate reorg energy
