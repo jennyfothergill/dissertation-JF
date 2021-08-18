@@ -9,3 +9,8 @@ https://pubs.acs.org/doi/pdf/10.1021/ct500014h
     external is due to lattice distortion
     external is ~1 oom smaller and is ignored in this paper (and by us?)
     good description of how to calculate reorg energy
+
+Clarke2010b
+    Review of how charges are generated in OPVs
+    This paper is way too long
+    Exciton formation through charge transfer
