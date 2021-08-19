@@ -1,0 +1,9 @@
+https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b01229
+    coarse grain model for polymers
+    I'm not sure what they are getting at with the parameters in a polymer being correlated. Is what they mean that the bond length could depend on the bond angle, etc?
+    studies show that the bond angle and torsion can be correlated and these correlations may matter
+    bond-bond correlation : how much the vector of bond i aligns with bond i+m
+    the bond-bond correlation is related to the persistence length
+    "bond−bond correlation decay length, or persistence length"
+    these are independent of coarse graining scale
+    persistence length is related to stiffness and can help us choose the coarse graining level of a polymer
