@@ -32,3 +32,15 @@ Towards Molecular Simulations that are Transparent, Reproducible, Usable By Othe
 
 Eric Jankowski, Neale Ellyson, Jenny W. Fothergill, Michael M. Henry, Mitchell H. Leibowitz, Evan D. Miller, Mone’t Alberts, Samantha Chesser, Jaime D. Guevara, Chris D. Jones, Mia Klopfenstein, Kendra K. Noneman, Rachel Singleton, Ramon A. Uriarte-Mendoza, Stephen Thomas, Carla E. Estridge, Matthew L. Jones, Perspective on coarse-graining, cognitive load, and materials simulation, Computational Materials Science, Volume 171, 2020, 109129, ISSN 0927-0256, https://doi.org/10.1016/j.commatsci.2019.109129.
     our perspective paper. many good refs, overview of onboarding and best practices particularly good
+
+
+# thinking about reproducibility today
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006649#sec004
+Ten simple rules on how to create open access and reproducible molecular simulations of biological system
+    super short straightforward rules for reproducibility
+
+https://doi.org/10.1016/j.bbagen.2014.09.007
+    Shows that DNA conformation can be obtained using different simulation engines with the same forcefield.
+    describes how they did it.
+    some hilarity ensues when they mention hand-editing text files.
+    they use the same engines but on different architectures
