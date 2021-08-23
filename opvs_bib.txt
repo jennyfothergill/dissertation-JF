@@ -12,5 +12,11 @@ https://pubs.acs.org/doi/pdf/10.1021/ct500014h
 
 Clarke2010b
     Review of how charges are generated in OPVs
-    This paper is way too long
+    This paper is long
     Exciton formation through charge transfer
+    read up to section 2 - gives an overview of opvs
+    increasing the length of the conjugated polymer makes the opv behave in a band-like way.
+    organic devices have excitons not free charges
+    goes through history, first opv was single crystal polymer, the tang made first bilayer device, then the first fullerene/polymer BHJ
+    talks a little about photosynthesis and how the redox relay helps by spatially separating the charges.
+    this review will focus on charge transfer and photocurrent generation.

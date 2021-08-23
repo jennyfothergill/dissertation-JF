@@ -44,3 +44,8 @@ https://doi.org/10.1016/j.bbagen.2014.09.007
     describes how they did it.
     some hilarity ensues when they mention hand-editing text files.
     they use the same engines but on different architectures
+
+
+Statistically optimal analysis of samples from multiple equilibrium states
+J. Chem. Phys. 129, 124105 (2008); https://doi.org/10.1063/1.2978177 
+    mbar 
