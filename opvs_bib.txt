@@ -20,3 +20,18 @@ Clarke2010b
     goes through history, first opv was single crystal polymer, the tang made first bilayer device, then the first fullerene/polymer BHJ
     talks a little about photosynthesis and how the redox relay helps by spatially separating the charges.
     this review will focus on charge transfer and photocurrent generation.
+    reading about excitons: coloumbically bound electron hole pair where binding energy >>> thermal energy
+    charge dissociation occurs at the interface
+    exciton refers to the electronic excitation _and_ the structural deformation 
+    (in polythiophene a reverals of the c-c bond length alternation)
+    nonadiabatic electron transfer - with loss through heat
+        Discusses Marcus theory and how it satisfies Franck-Condon/BorneOppenheimer, 
+        and the reorganization energy and its different parts 
+    Onsager theory:
+        decribes geminate recombination (when exciton recombine before reaching interface)
+        There is a radius where the coloumb attraction equal the thermal energy, called the coloumb capture radius or the onsager radius
+        modifications to this theory include that a CT state is finite
+        in systems with high electron mobility the smoluchowski eq breaks down (it assumes that brownian motion mean free path is short compare to length scale) For these systems a modification was added by tachiya
+        basically onsager theory is v effective in certain system (homogeneous w/o interface) but has many limitations.
+    
+
