@@ -1,5 +1,12 @@
 TODO read
 Shirts2017
+    Reading this to better understand reproducibility study
+    Comparing results across engines. 
+    How the charges calculated (whole molecule or fragment) affects the result and this is often not reported.
+    Compare potential energy, density, enthalpy
+    started with one file and converted into another and then another
+    They also used hard cutoff
+    They found errors due to differences in Colomb's constant!
 Rizzi2020
 Zasada2020
 
