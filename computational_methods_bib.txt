@@ -1,3 +1,10 @@
+TODO read
+Shirts2017
+Rizzi2020
+Zasada2020
+
+
+
 https://doi.org/10.1016/j.jtbi.2010.12.024
     (TODO read) how to make protein study reproducibile
 John D. Blischak, Emily R. Davenport, and Greg Wilson: "A Quick Introduction to Version Control with Git and GitHub" PLoS Computational Biology, 2016.
