@@ -33,5 +33,11 @@ Clarke2010b
         modifications to this theory include that a CT state is finite
         in systems with high electron mobility the smoluchowski eq breaks down (it assumes that brownian motion mean free path is short compare to length scale) For these systems a modification was added by tachiya
         basically onsager theory is v effective in certain system (homogeneous w/o interface) but has many limitations.
+        skimmed section 3 to jump to section 4.
+        What is important for a good OPV?
+        open circuit voltage is mostly based on donor ionization potential and acceptor electron affinity. Sucessfully at predicting device Voc from materials after processing typically within 0.2V.
+        Energy of CT state correlated with Voc
+        Good mixing of A/D, good carrier mobility important. Our worflows can probe this
+        Also good CT dissociation. many factor affect this but we don't study it.
     
 
