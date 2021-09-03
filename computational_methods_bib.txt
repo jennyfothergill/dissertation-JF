@@ -1,4 +1,3 @@
-TODO read
 Shirts2017
     Reading this to better understand reproducibility study
     Comparing results across engines. 
@@ -8,6 +7,16 @@ Shirts2017
     They also used hard cutoff
     They found errors due to differences in Colomb's constant!
 Rizzi2020
+    binding energies of ligand/protein. comparing engines. results suggest the forcefield + partial charges are not enough to ensure reproducibility. Berendsen barostat introduces artifacts.
+    Binding matters for small molecule drug discovery.
+    Enhanced sampling helps with proteins becausethere are areas in their configurational space that are difficult to probe with short simulations.
+    Not all of the engines had the same parameters
+    Differences between methods impact force field development
+    - ffs can only be expected to be accurate with the same parameters
+    Replicates are important to understand the uncertainty in the measurement
+    Larger and more varied test set gives more information about the method
+
+TODO read
 Zasada2020
 
 
