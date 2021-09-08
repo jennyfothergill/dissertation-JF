@@ -1,3 +1,20 @@
+Maginn2019
+    Transport properties. Comparison with experiment is mainly testing the forcefield.
+    But simulation methodology also matters.
+    If dynamics matter, then the ensemble may have a greater effect.
+    Thermostats and barostats can interfere with the dynamics.
+    Eq 2 is the Einstein eq related to MorphCT
+    Planckton uses Nose-hoover
+    Time constant is is time units
+    In NVE energy must be conserved--can plot energy versus time
+    Sample length should be longer than correlation time.
+    If MSD is comparable or larger to L then the molecules have adequately explored the configuration space.
+    Need unwrapped coords
+    Recommend using center of mass
+    Finite size effects: self-diffusivity increases with system size. To account for this a series of larger systems can be simulated and the trend can be observed or a correction factor can be used.
+    1000 independent samples,
+    In the diffusive regime, the slope of s log log msd plot is 1
+    The middle of the msd plot is the best for the linear fit, but there is no good metric for deciding what is the middle.
 Shirts2017
     Reading this to better understand reproducibility study
     Comparing results across engines. 
