@@ -1,0 +1,12 @@
+Kratzer2009
+    Introduces epitaxial growth and how long length and time scales are needed to understand this problem
+    KMC can be used to bridge the length/time scales
+    Next MC can be used to randomly sample the distribution, with enough samples the thermodynamic observable should converge
+    MC relies on a markov process--the step only depends on the step before, so only the transition from state_x->state_x+1 needs to be considered.
+    Detail balance - the net probability flux between states is zero
+    TODO could use help understanding eq 17 because it seems backwards to me?
+    KMC assigns a meaning of time to the simulation steps by considering the calculated rate of the event.
+    Each step can vary in the amount of time it takes.
+    MorphCT uses the time-ordered list or first reaction method
+    discusses parallelization--which matty implemented the way they suggest(each process is indepent for some number of events)
+    TODO next time start at section 4
