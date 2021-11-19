@@ -1,0 +1,10 @@
+GRiTS
+uses SMARTS matching to assign atomic indexes to coarse grain beads
+bonds between cg beads are inferred based on atomistic bonding scheme
+SMARTS matching is expensive so when looking at an entire simulation trajectory a simplification scheme is used
+first the first frame of the trajectory is taken
+this is because the perceive bond order function in openbabel relies on the atomic positions being chemically reasonable
+(aromatic systems should be planar, etc)
+freud clustering is used to break apart the first frame into molecules
+if molecules have the same number of atoms, they are assumed to have the same chemical structure
+
