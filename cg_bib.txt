@@ -26,4 +26,5 @@ Hinkle2020
     single-walled carbon nanotubes (SWCNTs) have many unique properties but are difficult to synthesize in a uniform batch. post synthesis separation can use single-stranded DNA (ssDNA) which can select by chirality. but the mechanism is not understood. 
     They use gromacs and an advanced sampling method replica exchange (RE)MD
 
-
+Patrone2016
+    I think this paper deals uses bayesian statistics to predict intermediate statepoints based on the uncertainty of the measured statepoints
