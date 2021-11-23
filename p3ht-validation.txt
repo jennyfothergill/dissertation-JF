@@ -1,3 +1,17 @@
+{Miller2018}
+we need a model big enough and fast enough to predict structure
+order parameter
+relaxation time and TPS
+    these metrics were used to show that advances in hardware wouldn't give us the jump we needed and so we need better models
+    still it would be cool to compare
+decorrelation times
+simulating solvent evaporation with slow shrinking
+large volumes are needed for experimental validation
+
+planckton removing hydrogens doesn't adjust the mass of heavy atoms
+
+I found that in order to get agreement with Evan's results I had to change the angle cutoff to be more strict.
+
 GRiTS
 uses SMARTS matching to assign atomic indexes to coarse grain beads
 bonds between cg beads are inferred based on atomistic bonding scheme
@@ -8,3 +22,6 @@ this is because the perceive bond order function in openbabel relies on the atom
 freud clustering is used to break apart the first frame into molecules
 if molecules have the same number of atoms, they are assumed to have the same chemical structure
 
+Next steps
+Evan's work showed that tie-chains are important how does the planckton workflow address the need for polydispersity
+Opportunity to cite Chris' polymer builder work!
