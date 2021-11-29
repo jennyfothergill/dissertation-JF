@@ -1,14 +1,15 @@
 {Miller2018}
-we need a model big enough and fast enough to predict structure
-order parameter
+we need a model big enough and fast enough to predict structure - uses OPLS-UA
+order parameter is used to quantify structural order and is related to the lamellar stacking in p3ht--when systems are small GIXS peaks are fuzzy.
 relaxation time and TPS
     these metrics were used to show that advances in hardware wouldn't give us the jump we needed and so we need better models
     still it would be cool to compare
-decorrelation times
-simulating solvent evaporation with slow shrinking
-large volumes are needed for experimental validation
+decorrelation times/autocorrelation - used to make sure the the system is equilibrated
+Conclusions:
+    Can simulate solvent evaporation with slow shrinking
+    large volumes are needed for experimental validation
 
-planckton removing hydrogens doesn't adjust the mass of heavy atoms
+planckton removing hydrogens doesn't adjust the mass of heavy atoms - does this matter?
 
 I found that in order to get agreement with Evan's results I had to change the angle cutoff to be more strict.
 
