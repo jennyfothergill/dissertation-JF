@@ -33,3 +33,16 @@ R: by using the signac framework we can quickly and easily sample the necessary 
 U: PEP8 compliant code and docstrings are ensured by using the pre-commit git hook manager to automatically lint the code with black, isort, pydocstyle. Along with jupyter notebook examples, Grits also has a sphinx readthedocs page.
 E: by building on existing code we work with a community of open-source molecular simulators. <Mention Chris' work with uli and the polymer builder? The polymer builder could be a great way to entend planckton>
 
+
+boss notes:
+- have done work, but it's scattered. 
+- maybe we will be able to include the reproducibility study
+- p3ht structure/charge transport validation
+- write about each of the tools
+- maybe a chapter is reproducibility
+- structure idea:
+    overall description
+    chapter about each tool
+    scientific application of tools
+
+
