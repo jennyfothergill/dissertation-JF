@@ -25,3 +25,10 @@ if molecules have the same number of atoms, they are assumed to have the same ch
 Next steps
 Evan's work showed that tie-chains are important how does the planckton workflow address the need for polydispersity
 Opportunity to cite Chris' polymer builder work!
+
+How have we made this work more TRUE?
+T: by using mbuild with foyer in planckton to initialize our simulations, we can easily use different input file formats including smiles strings and any foyer forcefield. Using grits to calculate the order parameter can help us to more easily select the conjugated part of the molecule without any manual indexing.
+R: by using the signac framework we can quickly and easily sample the necessary parameter space without needing to manually create or manage directories. We've also implemented semantic versioning in planckton with version tagged docker containers which helps to get the same code state.
+U: PEP8 compliant code and docstrings are ensured by using the pre-commit git hook manager to automatically lint the code with black, isort, pydocstyle. Along with jupyter notebook examples, Grits also has a sphinx readthedocs page.
+E: by building on existing code we work with a community of open-source molecular simulators. <Mention Chris' work with uli and the polymer builder? The polymer builder could be a great way to entend planckton>
+
