@@ -34,12 +34,18 @@ U: PEP8 compliant code and docstrings are ensured by using the pre-commit git ho
 E: by building on existing code we work with a community of open-source molecular simulators. <Mention Chris' work with uli and the polymer builder? The polymer builder could be a great way to entend planckton>
 
 
-boss notes:
-- have done work, but it's scattered. 
-- maybe we will be able to include the reproducibility study
-- p3ht structure/charge transport validation
-- write about each of the tools
-- maybe a chapter is reproducibility
+Outline
+what is the goal? / statement of need
+    quickly and easily spin up a large number of simulations
+    access each of those simulations within that parameter space
+    perform analysis on the simulation output that involves picking out a chemical structure
+
+TRUE challenges
+
+Tools
+    planckton
+    grits
+    gixstapose
 - structure idea:
     overall description
     chapter about each tool
