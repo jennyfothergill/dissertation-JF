@@ -41,6 +41,10 @@ what is the goal? / statement of need
     perform analysis on the simulation output that involves picking out a chemical structure
 
 TRUE challenges
+    when I first started in the lab installing our software stack was difficult. Managing dependencies between mbuild and foyer required that we install the dependencies of both then in a separate step install the actual packages. We also had to compile hoomd from source if we wanted it to work on GPU. Now with improvements in their conda packaging and by using the mamba package manager all packages can be installed in one step. But in the interim we set up a pipeline which automatically builds docker containers from each tagged version or the laster master branch. This allows our labmates to use this package without ever having to build the software stack. Singularity is installed on all our clusters and so we can simply pull our singularity image and run inside the image. Not only does this make our software stack easier to use, but it makes it more portable between clusters--we can have the exact same environment on our schools cluster and on XSEDE--and it makes it reproducible--if someone wants to reproduce our work, they can access the exact container we used.
+    manual atom typing
+    filling the box using mbuild vs another program -- switching between programs can introduce error
+    having the entire workflow scripted reduces oportunity for error
 
 Tools
     planckton
