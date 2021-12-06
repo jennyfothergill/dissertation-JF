@@ -35,6 +35,12 @@ E: by building on existing code we work with a community of open-source molecula
 
 
 Outline
+Intro
+    OPVS - meet global energy needs while not contributing to CO2 emissions
+        low manufacturing costs shorter energy payback times 
+    Simulations can help us to better understand what compounds and processing consitions result in the best structure
+    This paper will demonstrate that we can reproduce and validate our p3ht morphologies while using mosdef tools to help our methods to be more TRUE
+
 what is the goal? / statement of need
     quickly and easily spin up a large number of simulations
     access each of those simulations within that parameter space
@@ -55,4 +61,13 @@ Tools
     chapter about each tool
     scientific application of tools
 
+Notes from some AIChE talks:
+    Justin's:
+    "Reproducible computational research, in which all details of computations--code and data--are made conveniently available to others, is a necessary response to [the credibility] crisis" - Donoho, D. et. al. (2009) Comp Sci Eng 11(1)
+    "Automation and version control are key devices for reproducibility" - Sandve, G. K. (2013) PLOS Comp Bio 9
 
+    Dr Phelan:
+    Something that stands out to me about this talk is the amount of data which is carried between different scripts. I wonder if this process is automated? Also no mention of how the mapping is generated. Also no code is distributed--is it public or version controlled? how is lammps integrated into the workflow or is this done manually?
+    where can comsoft be found? 
+    they have a coarse grain mapping routine which appears to use regex/graph network/smiles
+    - t khanh hoang
